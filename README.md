@@ -1,1 +1,0 @@
-# gregorygrullon.github.io
