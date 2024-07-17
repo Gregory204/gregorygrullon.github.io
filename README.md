@@ -10,4 +10,5 @@ My name is Gregory most just call me Greg. But I am a dedicated student at Hunte
 
 ### Links to my LinkedIn and GitHub Profile: ###
 LinkedIn: https://www.linkedin.com/in/gregory-grullon
+
 GitHub: https://github.com/Gregory204
